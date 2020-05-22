@@ -1,5 +1,5 @@
 {
-  "name": "chat-tin",
+  "name": "chat",
   "version": "1.0.0",
   "description": "is a simple chat that was built with entire javascript technologies, for the frontend, backend and database.",
   "main": "index.js",
