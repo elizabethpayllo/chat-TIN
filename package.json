@@ -1,5 +1,5 @@
 {
-  "name": "chat-TIN",
+  "name": "chat-tin",
   "version": "1.0.0",
   "description": "is a simple chat that was built with entire javascript technologies, for the frontend, backend and database.",
   "main": "index.js",
@@ -20,5 +20,13 @@
   },
   "directories": {
     "doc": "docs"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizabethpayllo/chat-TIN.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elizabethpayllo/chat-TIN/issues"
+  },
+  "homepage": "https://github.com/elizabethpayllo/chat-TIN#readme"
 }
